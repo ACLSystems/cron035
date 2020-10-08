@@ -1,0 +1,11 @@
+{
+  "name": "cron035",
+  "version": "0.1.0",
+  "description": "Cron para api035",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ACL Systems SA de CV",
+  "license": "ISC"
+}
